@@ -15,8 +15,8 @@
 
   <parent><!--required parent POM-->
       <groupId>dev.appsody</groupId>
-      <artifactId>java-microprofile</artifactId>
-      <version>[0.2, 0.3)</version>
+      <artifactId>java-openliberty</artifactId>
+      <version>0.2.12</version>
       <relativePath/>
   </parent>
 
